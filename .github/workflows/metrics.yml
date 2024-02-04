@@ -1,0 +1,40 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: ichirei.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          
+          user: ichirei
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_display: large
+          config_timezone: Asia/Jakarta
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_visibility: public
+          plugin_activity_timestamps: yes
+          plugin_activity_filter: push, issue, pr, release, fork, review, ref/create, public
