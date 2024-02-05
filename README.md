@@ -1,4 +1,4 @@
-### 👋 Hi, I'm ichirei
+### 👋 Hi, I'm Ichirei 학생
 
 ---
 
