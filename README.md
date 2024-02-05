@@ -25,7 +25,7 @@
 
 <details>
     <summary><b>🟣 Used Languages</b></summary>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ichirei&border_radius=30&hide_border=true&bg_color=313849&title_color=667EBD&text_color=B1BACD" alt="wakatime" />
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichirei&layout=compact)
 </details>
 
 <details>
