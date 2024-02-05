@@ -25,7 +25,7 @@
 
 <details>
     <summary><b>🟣 Used Languages</b></summary>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichirei&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichirei&layout=compact" alt="toplang" />
 </details>
 
 <details>
