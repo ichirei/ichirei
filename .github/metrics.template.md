@@ -2,6 +2,8 @@
 
 ---
 
+![ichirei](https://github.com/ichirei/ichirei/assets/83379604/e87d44b3-8db3-491b-b0b5-a92df9d9169b)
+
 <%- await embed(`base`, { base: "header, activity, community, repositories, metadata" }) %>
 
 
