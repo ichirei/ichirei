@@ -15,17 +15,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: 📘 Markdown template
+      - name: 📘 Classic template
         uses: lowlighter/metrics@latest
         if: ${{ success() || failure() }}
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
-          template: markdown
-          filename: README.md
-          markdown: https://raw.githubusercontent.com/ichirei/ichirei/main/.github/metrics.template.md
-          config_output: markdown
+          user: ichirei
+          template: classic
+          filename: ichirei.svg
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_display: large
