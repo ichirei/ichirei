@@ -1,16 +1,32 @@
-### Hi there 👋
+### 👋 Hi, I'm ichirei
 
-<!--
-**ichirei/ichirei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<img src="https://github.com/ichirei/ichirei/blob/main/.cache/base.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<details>
+    <summary><b>📰 Recent activity</b></summary>
+    <img src="https://github.com/ichirei/ichirei/blob/main/.cache/activity.svg">
+</details>
+
+<details>
+    <summary><b>🗓️ My Calendar</b></summary>
+    <img src="https://github.com/ichirei/ichirei/blob/main/.cache/isocalendar.svg">
+</details>
+
+<details>
+    <summary><b>🔥 My Streak</b></summary>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichirei&theme=dark" alt="streak" />
+</details>
+
+<details>
+    <summary><b>🟣 Used Languages</b></summary>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ichirei&border_radius=30&hide_border=true&bg_color=313849&title_color=667EBD&text_color=B1BACD" alt="wakatime" />
+</details>
+
+<details>
+    <summary><b>🏅 Achievements</b></summary>
+    <img src="https://github.com/ichirei/ichirei/blob/main/.cache/achievements.svg">
+</details>
