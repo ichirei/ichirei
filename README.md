@@ -22,3 +22,12 @@
     <img src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white&style=for-the-badge" alt="OBS"/>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
+
+> **👨‍💻 Programming and Markup Languages**
+<p>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+    <img src="https://img.shields.io/badge/shell-89E051.svg?style=for-the-badge&logo=zsh&logoColor=black" alt="Shell"/>
+</p>
