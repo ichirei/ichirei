@@ -17,6 +17,7 @@
 <p>
     <img src="https://img.shields.io/badge/Archcraft-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Archcraft"/>
     <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave"/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJIDEA"/>
     <img src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white&style=for-the-badge" alt="OBS"/>
