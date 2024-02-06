@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Ichirei 학생
+### <img src="https://github.com/ichirei/ichirei/assets/83379604/cda71055-baf2-4675-9c5a-f78531e28f45" height="20" width="20" align="center"/> Hi, I'm Ichirei 학생
 
 ---
 
