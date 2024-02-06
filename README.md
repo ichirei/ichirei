@@ -34,3 +34,8 @@
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
     <img src="https://img.shields.io/badge/shell-89E051.svg?style=for-the-badge&logo=zsh&logoColor=black" alt="Shell"/>
 </p>
+
+> **📚 Frameworks and Libraries**
+<p>
+	<img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo" alt="Hugo"/>
+</p>
