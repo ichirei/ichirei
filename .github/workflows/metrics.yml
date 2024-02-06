@@ -29,16 +29,3 @@ jobs:
           base_indepth: yes
           config_display: large
           config_timezone: Asia/Jakarta
-          
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-          
-          # RecentActivity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_visibility: public
-          plugin_activity_timestamps: yes
-          plugin_activity_filter: push, issue, pr, release, review, ref/create, public
