@@ -2,7 +2,7 @@
 
 ---
 
-![ichirei](https://github.com/ichirei/ichirei/assets/83379604/e87d44b3-8db3-491b-b0b5-a92df9d9169b)
+![ichirei](https://github.com/user-attachments/assets/020609a7-faa0-4dbf-bb25-13568a618b1a)
 
 ![ichirei](/ichirei.svg)
 
