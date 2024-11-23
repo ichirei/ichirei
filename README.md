@@ -1,4 +1,4 @@
-### <img src="https://github.com/ichirei/ichirei/assets/83379604/cda71055-baf2-4675-9c5a-f78531e28f45" height="20" width="20" align="center"/> Hi, I'm Ichirei 학생
+### <img src="https://github.com/ichirei/ichirei/assets/83379604/cda71055-baf2-4675-9c5a-f78531e28f45" height="20" width="20" align="center"/> Hello!
 
 ---
 
@@ -11,7 +11,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichirei&layout=compact" alt="toplang" />
 </details>
 
-**🛠️ My Favorite Tools**
+<details>
+<summary><b>🛠️ My Favorite Tools</b></summary>
 
 > **💻 Software and Tools**
 <p>
@@ -39,3 +40,4 @@
 <p>
 	<img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo" alt="Hugo"/>
 </p>
+</details>
