@@ -1,4 +1,3 @@
-
-![ichirei](https://github.com/user-attachments/assets/020609a7-faa0-4dbf-bb25-13568a618b1a)
+![ichirei](https://github.com/user-attachments/assets/c7b5ba0c-0093-4e61-9722-6704c8f22589)
 
 ![ichirei](/ichirei.svg)
